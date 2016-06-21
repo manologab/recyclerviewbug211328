@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewBug211328</string>
+    <string name="bind_calls">onBindViewHolder calls: %d</string>
+    <string name="create_calls">onCreateViewHolder calls: %d</string>
+</resources>
